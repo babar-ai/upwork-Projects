@@ -6,4 +6,3 @@ recordings
 __pycache__/
 logs
 data_prep/
-.venv/
