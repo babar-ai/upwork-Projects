@@ -1,0 +1,9 @@
+/env
+.env
+venv
+__pycache__
+recordings
+__pycache__/
+logs
+data_prep/
+.venv/
