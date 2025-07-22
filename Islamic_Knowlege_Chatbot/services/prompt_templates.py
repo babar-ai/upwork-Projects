@@ -217,4 +217,8 @@ Instructions:
 - Use clear headings and proper formatting to structure your response for easy reading.
 - Use blockquotes (>) for all direct citations from Islamic sources.
 - Include all available information - never reduce content for brevity.
+
 """
+
+
+
